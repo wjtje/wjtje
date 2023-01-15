@@ -1,6 +1,6 @@
-## Here are some random stats
+# Hej!
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=wjtje&show_icons=true&theme=dark)
+I'm Wouter van der Wal, a 20-year-old developer from the Netherlands. That is currently experimenting with TypeScript, Svelte, GraphQL and Tailwind. And adding more details to OpenStreetMap.
 
+[Contact](https://wjtje.dev/contact) - [Mastodon](https://social.wjtje.dev) - [Pixelfed](https://pixey.org/wjtje)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wjtje&show_icons=true&theme=dark&layout=compact)
